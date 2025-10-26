@@ -13,6 +13,25 @@ This template is created using Tailwind CSS version 4 and React 18, offering a m
 
 ![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/easytax.png)
 
+## Template Versions
+
+This template is available in multiple frameworks:
+
+| Framework | Link |
+|-----------|------|
+| HTML | [Easy Tax HTML Template](https://pixelrocket.store/free-templates/html-templates/easy-tax-tailwind-html-website-template) |
+| React | [Easy Tax React Template](https://pixelrocket.store/free-templates/react-templates/easy-tax-react-website-template) |
+| Next.js | [Easy Tax Next.js Template](https://pixelrocket.store/free-templates/nextjs-templates/easy-tax-nextjs-website-template) |
+
+## More Free Templates
+
+| Template | HTML | React | Next.js |
+|----------|------|-------|---------|
+| Frequencii | [HTML](https://pixelrocket.store/free-templates/html-templates/frequenci-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/frequencii-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/frequencii-tailwind-nextjs-website-template) |
+| Fauna & Flora | [HTML](https://pixelrocket.store/free-templates/html-templates/fauna-flora-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/fauna-flora-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/fauna-flora-tailwind-nextjs-website-template) |
+| Four Points | [HTML](https://pixelrocket.store/free-templates/html-templates/four-points-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/four-points-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/four-points-tailwind-nextjs-website-template) |
+| Global Bank | [HTML](https://pixelrocket.store/free-templates/html-templates/global-bank-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/global-bank-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template) |
+
 ## Pages
 - Homepage
 - About Us (full version only)
