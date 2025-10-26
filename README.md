@@ -11,8 +11,6 @@ This template is created using Tailwind CSS version 4 and React 18, offering a m
 > **Important:** You are currently viewing only the starter template, which includes only the homepage. The full template is available for free to users who are registered on my website and signed up to my mailing list.
 > [Click here to download the full template](https://pixelrocket.store/free-templates/react-templates/easy-tax-react-website-template)
 
-![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/easytax.png)
-
 ## Template Versions
 
 This template is available in multiple frameworks:
@@ -25,12 +23,14 @@ This template is available in multiple frameworks:
 
 ## More Free Templates
 
-| Template | HTML | React | Next.js |
-|----------|------|-------|---------|
-| Frequencii | [HTML](https://pixelrocket.store/free-templates/html-templates/frequenci-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/frequencii-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/frequencii-tailwind-nextjs-website-template) |
-| Fauna & Flora | [HTML](https://pixelrocket.store/free-templates/html-templates/fauna-flora-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/fauna-flora-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/fauna-flora-tailwind-nextjs-website-template) |
-| Four Points | [HTML](https://pixelrocket.store/free-templates/html-templates/four-points-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/four-points-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/four-points-tailwind-nextjs-website-template) |
-| Global Bank | [HTML](https://pixelrocket.store/free-templates/html-templates/global-bank-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/global-bank-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template) |
+| Template | Preview | HTML | React | Next.js |
+|----------|---------|------|-------|---------|
+| Frequencii | ![Frequencii](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/frequencii.png) | [HTML](https://pixelrocket.store/free-templates/html-templates/frequenci-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/frequencii-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/frequencii-tailwind-nextjs-website-template) |
+| Fauna & Flora | ![Fauna & Flora](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/florafauna.png) | [HTML](https://pixelrocket.store/free-templates/html-templates/fauna-flora-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/fauna-flora-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/fauna-flora-tailwind-nextjs-website-template) |
+| Four Points | ![Four Points](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/fourpoints.png) | [HTML](https://pixelrocket.store/free-templates/html-templates/four-points-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/four-points-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/four-points-tailwind-nextjs-website-template) |
+| Global Bank | ![Global Bank](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/globalbank.png) | [HTML](https://pixelrocket.store/free-templates/html-templates/global-bank-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/global-bank-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template) |
+
+![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/easytax.png)
 
 ## Pages
 - Homepage
